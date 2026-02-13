@@ -1,4 +1,4 @@
-# Namdapha CGPA Calculator
+## CGPA Calculator
 
 A client-side CGPA calculator for IIT Madras BS Degree students.
 
